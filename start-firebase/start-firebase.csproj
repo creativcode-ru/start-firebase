@@ -5,11 +5,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="wwwroot\auth\email.htm" />
+    <Content Include="wwwroot\auth\email.html" />
     <Content Include="wwwroot\htmlpage.html" />
+    <Content Include="wwwroot\js\firebase-init.js" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />
     <PackageReference Include="Microsoft.AspNetCore" Version="1.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="1.1.2" />
   </ItemGroup>
 
 </Project>
