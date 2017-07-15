@@ -8,7 +8,7 @@
     <Content Include="wwwroot\auth\anon.html" />
     <Content Include="wwwroot\auth\email.html" />
     <Content Include="wwwroot\htmlpage.html" />
-    <Content Include="wwwroot\js\firebase-init.js" />
+    <Content Include="wwwroot\js\readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />

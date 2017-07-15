@@ -28,6 +28,8 @@
                 firebase.auth().signOut();
 
             } else {
+
+                //https://firebase.google.com/docs/reference/js/firebase.auth.Auth#signInAnonymously
                 firebase.auth().signInAnonymously().catch(function (error) {
 
                     // Handle Errors here.
