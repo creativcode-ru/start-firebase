@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="wwwroot\auth\anon.html" />
     <Content Include="wwwroot\auth\email.html" />
     <Content Include="wwwroot\htmlpage.html" />
     <Content Include="wwwroot\js\firebase-init.js" />
